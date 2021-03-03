@@ -1,3 +1,3 @@
 # kickstarter-analysis
 First set up
-![untitled](kickstarter-analysis/untitled.jpg)
+![IMAGE](untitled.jpg)
