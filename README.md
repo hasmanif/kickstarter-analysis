@@ -1,3 +1,3 @@
 # kickstarter-analysis
 First set up
-![untitled](path/to/untitled.png)
+![untitled](kickstarter-analysis/untitled.jpg)
