@@ -20,7 +20,7 @@ The Theater outcomes have the most successful projects in May. Canceled projects
 
 
 - What can you conclude about the Outcomes based on Goals?
-Smaller projects with goals less than $5,000 are largely more successful than the larger projects with the exception of projects in between $35,000 - $44,999. Its fair to say that since the number of projects total 9 projects between the 2 data points, it can be seen as these projects were unique since the successful line has a natural declining slope and is inversely related to the number of failed projects. 
+-- Smaller projects with goals less than $5,000 are largely more successful than the larger projects with the exception of projects in between $35,000 - $44,999. Its fair to say that since the number of projects total 9 projects between the 2 data points, it can be seen as these projects were unique since the successful line has a natural declining slope and is inversely related to the number of failed projects. 
 
 - What are some limitations of this dataset?
 Out of the total of 1,047 projects, 720 are less than 4,999 which means that there are more values available to projects less than $4,999 to get a better representation of the percentage of successful projects. It could be fair to say, with a larger data set, the graph could show a smoother decline in successful projects as the goal increases. Another limitation would be the popularity of each project could play a significant role on whether the project has a higher change of being pledged/backed. This could give us a better understanding on why some of the larger projects were greatly successful. 
